@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\FileBrower\fileBrower\bin\Debug\fileBrower.exe.config
+C:\Users\Admin\source\repos\FileBrower\fileBrower\bin\Debug\fileBrower.exe
+C:\Users\Admin\source\repos\FileBrower\fileBrower\bin\Debug\fileBrower.pdb
+C:\Users\Admin\source\repos\FileBrower\fileBrower\obj\Debug\fileBrower.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\FileBrower\fileBrower\obj\Debug\fileBrower.Form1.resources
+C:\Users\Admin\source\repos\FileBrower\fileBrower\obj\Debug\fileBrower.Properties.Resources.resources
+C:\Users\Admin\source\repos\FileBrower\fileBrower\obj\Debug\fileBrower.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\FileBrower\fileBrower\obj\Debug\fileBrower.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\FileBrower\fileBrower\obj\Debug\fileBrower.exe
+C:\Users\Admin\source\repos\FileBrower\fileBrower\obj\Debug\fileBrower.pdb
+C:\Users\Admin\source\repos\FileBrower\fileBrower\bin\Debug\MaterialSkin.dll
+C:\Users\Admin\source\repos\FileBrower\fileBrower\obj\Debug\fileBrower.csproj.CopyComplete
